@@ -1,0 +1,15 @@
+description: Ultralytics best model trained on /home/linux/TP555_analise_sonolencia/data_up_data/data.yaml
+author: Ultralytics
+date: '2024-11-30T05:16:03.245275'
+version: 8.3.36
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: awake
+  1: drowsy
