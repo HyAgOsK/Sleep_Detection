@@ -10,6 +10,7 @@ Consiste em um Comitê de modelos, com **Dlib**, **MediaPIPE** e **YOLOv8**, par
 
 
 - Comitê dos modelos
+
 ![image](https://github.com/user-attachments/assets/2395e217-6c89-45a5-906f-78b317c4fed4)
 
 
